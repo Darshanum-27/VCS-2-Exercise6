@@ -1,0 +1,1 @@
+Contents of file2 are present here
